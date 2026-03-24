@@ -1,0 +1,10 @@
+#Arduino Iot Cloud sensitive files
+thingProperties.h
+secrets.h
+
+#Local Arduino files
+*.ino.local
+
+#Logs and temp files
+*.log
+*.tmp
